@@ -1,3 +1,3 @@
 window.addEventListener('DOMContentLoaded', () => {
-  console.log('Fedpromptly loaded');
+  console.log('Serenity loaded');
 });
