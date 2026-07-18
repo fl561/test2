@@ -13,7 +13,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('https://www.fedpromptly.store');
+  win.loadURL('https://sites.google.com/view/serenityherbssouthfl/home');
 }
 
 app.whenReady().then(createWindow);
