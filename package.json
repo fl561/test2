@@ -1,5 +1,5 @@
 {
-  "name": "fedpromptly-desktop",
+  "name": "serenityherbs-desktop",
   "version": "1.0.0",
   "author": "Your Name",
   "description": "Desktop client for https://sites.google.com/view/serenityherbssouthfl/home",
@@ -10,7 +10,7 @@
   },
   "build": {
     "appId": "com.yourdomain.app",
-    "productName": "Fedpromptly",
+    "productName": "serenityherbs",
     "files": [
       "src/**/*"
     ],
